@@ -1,9 +1,9 @@
 ---
-name: Bug report dasd
+name: Custom
 about: Create a report to help us improve
 title: ''
-labels: bug
-assignees: sachinkum123
+labels: ''
+assignees: ''
 
 ---
 
