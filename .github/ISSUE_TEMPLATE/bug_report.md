@@ -1,5 +1,5 @@
 ---
-name: My First Template
+name: My Template
 about: Create a report to help us improve
 
 ---
