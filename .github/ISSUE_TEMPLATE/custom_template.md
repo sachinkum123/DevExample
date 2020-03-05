@@ -1,5 +1,5 @@
 ---
-name: Custom Template
+name: Custom Template Test
 about: Create a report to help us improve
 title: ''
 labels: ''
