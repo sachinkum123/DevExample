@@ -1,5 +1,5 @@
 ---
-name: My Issue Template
+name:My Issue Template
 about: Create a report to help us improve
 title: 123
 
