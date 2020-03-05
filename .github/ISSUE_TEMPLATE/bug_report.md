@@ -1,7 +1,7 @@
 ---
 about: Create a report to help us improve
 title: 123
-name: 
+name: My Template
 
 ---
 
